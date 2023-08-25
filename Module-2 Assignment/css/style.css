@@ -46,11 +46,12 @@ body{
 
 /* Style for Heading(Our Menu) */
 .head {
-    border: 2px solid white;
+    
     display: block;
-    margin: auto;
+    margin-top: 30px;
     margin-bottom: 30px;
     font-family: 'Lobster', cursive;
+    margin: auto;
 }
 
 .heading {
