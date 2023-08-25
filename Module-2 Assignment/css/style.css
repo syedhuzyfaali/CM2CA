@@ -48,10 +48,11 @@ body{
 .head {
     
     display: block;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    font-family: 'Lobster', cursive;
     margin: auto;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    font-family: 'Lobster', cursive;
+    
 }
 
 .heading {
